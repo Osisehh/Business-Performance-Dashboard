@@ -1,4 +1,4 @@
-# Performance Dashboard 📊  
+# Business Performance Dashboard 📊  
 
 ## 📌 About This Project  
 
