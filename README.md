@@ -1,4 +1,4 @@
-# Sales & Marketing Performance Dashboard 📊  
+# Performance Dashboard 📊  
 
 ## 📌 About This Project  
 
