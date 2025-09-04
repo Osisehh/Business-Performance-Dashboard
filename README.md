@@ -1,4 +1,4 @@
-# VTech Sales & Marketing Performance Dashboard 📊  
+# Sales & Marketing Performance Dashboard 📊  
 
 ## 📌 About This Project  
 
@@ -18,6 +18,8 @@ Each dashboard includes **YoY comparisons (absolute, % change, and growth rate)*
 ## 📊 Dashboard 1: Business Overview  
 🎯 **What’s the big picture of sales & revenue performance?**  
 
+![Business_Overview](https://github.com/Osisehh/Performance-Dashboard/blob/main/Images/Dashboard%201.jpg)
+
 **KPIs:**  
 - **2022:** Revenue $601K, Profit $132K, Margin **22.0%**  
 - **2023:** Revenue $630K (+4.8% vs PY), Profit $136K (+3.1% vs PY), Margin **21.7% (-1.5% vs PY)**  
@@ -35,6 +37,9 @@ Business **grew steadily from 2022 to 2023**, but the 2024 decline reflects **in
 
 ## 📊 Dashboard 2: Customer & Marketing Analysis  
 🎯 **How effective are campaigns and customer engagement?**  
+
+![Customer_&_Marketing_Analysis](https://github.com/Osisehh/Performance-Dashboard/blob/main/Images/Dashboard%202.jpg)
+
 
 **KPIs (YoY):**  
 - Views: **45K → 46K (+1.2%) → 31K (-32.7% YTD 2024)**  
@@ -55,6 +60,8 @@ Marketing delivers **consistent ROI**, but growth is slow. Heavy reliance on the
 ## 📊 Dashboard 3: Product Analysis  
 🎯 **Which products drive revenue & profitability?**  
 
+![Product_Analysis](https://github.com/Osisehh/Performance-Dashboard/blob/main/Images/Dashboard%203.jpg)
+
 **Highlights:**  
 - **Revenue vs Target:** 2022–23 mostly met/exceeded targets; 2024 weaker but incomplete  
 - **Top 10 Products:** Revenue concentrated in a small group of products  
@@ -67,6 +74,8 @@ Performance is driven by **a handful of products**. Variability suggests **seaso
 
 ## 📊 Dashboard 4: Transactional Report  
 🎯 **How can we track performance at a granular level?**  
+
+![Transactional_Report](https://github.com/Osisehh/Performance-Dashboard/blob/main/Images/Dashboard%204.jpg)
 
 **Features:**  
 - Searchable drill-through table with Sales ID lookup  
